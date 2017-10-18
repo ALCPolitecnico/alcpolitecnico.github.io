@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+	<head>
+		<title>Currículum Alejandro Lobato</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1 style="text-align:center">Currículum Vitae</h1>
+		<h2>Datos personales</h2>
+			<p>Nombre: Alejandro Lobato</p>
+			<p title="Fecha de fin: curso 2018/2019">Curso: Técnico Superior Administración de Sistemas Informáticos en Red</p>
+		<hr>
+		<br>
+		<h2>Formación técnica</h2>
+			<p>Programación Python: básico</p>
+			<p>Programación Javascript: básico</p>
+		<br>
+		<hr>
+		<h2>Experiencia laboral</h2>
+			<p>Profesor particular para alumnos de Educación Primaria - 2013/2015</p>
+		<hr>
+		<br>
+		<h2>Idiomas</h2>
+			<p>Inglés: Nivel B1 de acuerdo con el <i>Marco común europeo de referencia para las lenguas</i>, certificado por la Escuela Oficial de Idiomas de M�laga</p>
+			<p>Francés: Nivel A2 de acuerdo con el <i>Marco común europeo de referencia para las lenguas</i>, certificado por la Escuela Oficial de Idiomas de M�laga</p>
+		<hr>
+		<br>
+		<h2>Información adicional</h2>
+			<p>Carné de conducir: Permisos A2 y B</p>
+			<p>Disponibilidad para desplazamientos fuera de Málaga</p>
+	</body>
+</html>
