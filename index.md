@@ -23,5 +23,5 @@
 
 ## Información adicional
 
-	Carné de conducir: Permisos [A2](docs/moto.md) y [B](docs/coche.md)
+	Carné de conducir: Permisos A2 y [B] (docs/coche.md)
 	Disponibilidad para desplazamientos fuera de Málaga
