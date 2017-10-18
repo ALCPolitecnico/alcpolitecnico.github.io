@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ALCPolitecnico/alcpolitecnico.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Currículum Vitae
 
-### Markdown
+##Datos personales Nombre: Alejandro Lobato Curso: Técnico Superior Administración de Sistemas Informáticos en Red
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Formación técnica Programación Python: básico Programación Javascript: básico
 
-```markdown
-Syntax highlighted code block
+##Experiencia laboral Profesor particular para alumnos de Educación Primaria - 2013/2015
 
-# Header 1
-## Header 2
-### Header 3
+##Idiomas
 
-- Bulleted
-- List
+Inglés: Nivel B1 de acuerdo con el Marco común europeo de referencia para las lenguas, certificado por la Escuela Oficial de Idiomas de Málaga Francés: Nivel A2 de acuerdo con el Marco común europeo de referencia para las lenguas, certificado por la Escuela Oficial de Idiomas de Málaga
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ALCPolitecnico/alcpolitecnico.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Información adicional Carné de conducir: Permisos A2 y B Disponibilidad para desplazamientos fuera de Málaga
