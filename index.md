@@ -5,6 +5,7 @@ Nombre: Alejandro Lobato
 Curso: Técnico Superior Administración de Sistemas Informáticos en Red
 
 
+
 ## Formación técnica Programación
 
 Python: básico
@@ -12,9 +13,11 @@ Python: básico
 Programación Javascript: básico
 
 
+
 ## Experiencia laboral
 
 Profesor particular para alumnos de Educación Primaria - 2013/2015
+
 
 
 ## Idiomas
@@ -22,6 +25,7 @@ Profesor particular para alumnos de Educación Primaria - 2013/2015
 Inglés: Nivel B1 de acuerdo con el Marco común europeo de referencia para las lenguas, certificado por la Escuela Oficial de Idiomas de Málaga
 
 Francés: Nivel A2 de acuerdo con el Marco común europeo de referencia para las lenguas, certificado por la Escuela Oficial de Idiomas de Málaga
+
 
 
 ## Información adicional
