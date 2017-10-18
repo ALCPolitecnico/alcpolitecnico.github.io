@@ -22,6 +22,6 @@ Francés: Nivel A2 de acuerdo con el Marco común europeo de referencia para las
 
 ## Información adicional
 
-Carné de conducir: Permisos A2 y [B](docs/coche.md)
+Carné de conducir: Permisos A2 y [B](coche.md)
 
-Disponibilidad para desplazamientos fuera de [Málaga](docs/ciudad.md)
+Disponibilidad para desplazamientos fuera de [Málaga](ciudad.md)
