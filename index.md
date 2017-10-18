@@ -6,7 +6,8 @@
 
 ## Formación técnica Programación
 
-	Python: básico Programación Javascript: básico
+	Python: básico
+	Programación Javascript: básico
 
 
 ## Experiencia laboral
