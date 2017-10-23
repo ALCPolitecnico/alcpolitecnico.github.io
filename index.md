@@ -24,4 +24,4 @@ Francés: Nivel A2 de acuerdo con el Marco común europeo de referencia para las
 
 Carné de conducir: Permisos A2 y [B](coche.md)
 
-Disponibilidad para desplazamientos fuera de [Málaga](https://github.com/ALCPolitecnico/alcpolitecnico.github.io/blob/master/images/malaga.jpg "Imagen desde el mirador")
+Disponibilidad para desplazamientos fuera de [Málaga](images/ciudad.md)
