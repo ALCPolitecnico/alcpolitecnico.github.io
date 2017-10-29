@@ -1,4 +1,4 @@
-<div position="absolute" top="0" right="0">
+<div align="right">
 <img src="images/rage.jpg" height="100px" width="100px" />
 </div>
 
