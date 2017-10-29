@@ -1,6 +1,4 @@
-<img src="images/rage.jpg" height="100" width="100" position="absolute" top="0" right="0" />
-
-## Datos personales
+## Datos personales<img src="images/rage.jpg" height="100" width="100" position="absolute" top="0" right="0" />
 ***
 
 Nombre: Alejandro Lobato
