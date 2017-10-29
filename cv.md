@@ -47,5 +47,5 @@ Disponibilidad para desplazamientos fuera de Málaga
 <br>
 
 <div text-align="right">
-  [Volver al índice](index.md)
+[Volver al índice](index.md)
 </div>
