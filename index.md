@@ -40,6 +40,6 @@ Profesor particular para alumnos de Educación Primaria - 2013/2015
 ## Información adicional
 ***
 
-Carné de conducir: Permisos A2 y [B](coche.md)
+Carné de conducir: Permisos A2 y B
 
-Disponibilidad para desplazamientos fuera de [Málaga](images/ciudad.md)
+Disponibilidad para desplazamientos fuera de Málaga
