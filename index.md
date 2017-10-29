@@ -2,7 +2,7 @@
 ***
 
 <div align=center">
-<img src="images/rage.jpg" height="100px" width="100px" float="right" />
+<img src="images/rage.jpg" height="100px" width="100px" />
 </div>
 
 Nombre: Alejandro Lobato
