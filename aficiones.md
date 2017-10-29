@@ -2,7 +2,7 @@ Entre mis aficiones se encuentran:
 
 + Los videojuegos.
 
-<object align="center" width="420" height="315" src="https://www.youtube.com/embed/XGSy3_Czz8k?controls=1"></object>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=c0i88t0Kacs" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="The Witcher 3" width="240" height="180" border="10" /></a>
 
 + Los juegos de mesa.
 + Las manualidades.
