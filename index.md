@@ -1,6 +1,4 @@
-<div align="right">
-<img src="images/rage.jpg" height="100px" width="100px" />
-</div>
+<img src="images/rage.jpg" height="100px" width="100px" align="right />
 
 ## Datos personales
 ***
