@@ -1,5 +1,7 @@
 <img src="images/rage.jpg" height="100px" width="100px" align="right" hspace="50" />
 
+<br>
+
 ## Datos personales
 ***
 
