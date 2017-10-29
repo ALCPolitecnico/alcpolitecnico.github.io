@@ -1,3 +1,7 @@
-[Enlace al Currículum Vitae](cv.md)
+<p align="right">
+  
+# [Enlace al Currículum Vitae](cv.md)
 
-[Enlace a una lista con mis aficiones](aficiones.md)
+</p>
+
+# [Enlace a una lista con mis aficiones](aficiones.md)
