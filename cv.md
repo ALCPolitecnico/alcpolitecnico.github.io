@@ -44,4 +44,6 @@ Carné de conducir: Permisos A2 y B
 
 Disponibilidad para desplazamientos fuera de Málaga
 
-**[<p align="right">Volver al índice</p>]**(index.md)
+<br>
+
+[<p align="right"><b>Volver al índice</b></p>](index.md)
