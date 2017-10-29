@@ -5,6 +5,8 @@ Nombre: Alejandro Lobato
 
 Curso: Técnico Superior Administración de Sistemas Informáticos en Red
 
+<br>
+
 ## Formación técnica Programación
 ***
 
@@ -12,10 +14,14 @@ Python: básico
 
 Programación Javascript: básico
 
+<br>
+
 ## Experiencia laboral
 ***
 
 Profesor particular para alumnos de Educación Primaria - 2013/2015
+
+<br>
 
 ## Idiomas
 ***
