@@ -1,4 +1,4 @@
-<img src="images/rage.jpg" height="100px" width="100px" align="right" hspace="30" />
+<img src="images/rage.jpg" height="120px" width="120px" align="right" hspace="30" />
 
 <br>
 
