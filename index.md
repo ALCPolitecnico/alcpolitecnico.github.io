@@ -1,4 +1,4 @@
-<img src="images/rage.jpg" height="100px" width="100px" align="right" border="3px" />
+<img src="images/rage.jpg" height="100px" width="100px" align="right" border="5" />
 
 ## Datos personales
 ***
