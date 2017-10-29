@@ -1,7 +1,7 @@
 ## Datos personales
 ***
 
-<div align=center">
+<div align="center">
 <img src="images/rage.jpg" height="100px" width="100px" />
 </div>
 
