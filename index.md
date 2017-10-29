@@ -7,10 +7,10 @@ Curso: Técnico Superior Administración de Sistemas Informáticos en Red
 
 <br>
 
-## Formación técnica Programación
+## Formación técnica
 ***
 
-Python: básico
+Programación Python: básico
 
 Programación Javascript: básico
 
