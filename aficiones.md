@@ -1,13 +1,13 @@
 Entre mis aficiones se encuentran:
 
-1. Los videojuegos.
++ Los videojuegos.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/XGSy3_Czz8k?controls=1" /> 
+<iframe margin="auto" width="420" height="315" src="https://www.youtube.com/embed/XGSy3_Czz8k?controls=1" /> 
 
-2. Los juegos de mesa.
-3. Las manualidades.
-4. La danza urbana.
-5. La lectura.
++ Los juegos de mesa.
++ Las manualidades.
++ La danza urbana.
++ La lectura.
 
 <br>
 
