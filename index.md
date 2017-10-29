@@ -1,4 +1,5 @@
 ## Datos personales
+<img src="images/rage.jpg" height="100" width="100" />
 ***
 
 Nombre: Alejandro Lobato
@@ -30,4 +31,3 @@ Profesor particular para alumnos de Educación Primaria - 2013/2015
 Carné de conducir: Permisos A2 y [B](coche.md)
 
 Disponibilidad para desplazamientos fuera de [Málaga](images/ciudad.md)
-<img src="images/rage.jpg" height="100" width="100" float="both" margin-top="0" />
